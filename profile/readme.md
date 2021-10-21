@@ -24,6 +24,8 @@ Our roadmap is to focus on three main versions.
 
 If you love chess as much as code you can help us either by opening issues to suggest features or by opening pull request when your idea has been approved.
 
+- [Discussions](https://github.com/chesspecker/roadmap/discussions): To discuss any question you may have, check the latest announcement or suggest a feature request 💡
+- [Roadmap](https://github.com/chesspecker/roadmap/projects): Checkout what we are building today and what we will create tomorrow ⏰
 
 <!--
 Made with 🖤
