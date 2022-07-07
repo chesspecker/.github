@@ -16,7 +16,7 @@ If you love chess as much as code you can help us either by opening issues to su
 
 - [Discussions](https://github.com/chesspecker/chesspecker/discussions): To discuss any question you may have, check the latest announcement or suggest a feature request 💡
 - [Roadmap](https://github.com/orgs/chesspecker/projects/3/views/1): Checkout what we are building today and what we will create tomorrow ⏰
-- [Support](https://github.com/support/chesspecker): If you can and want to support us you can help paying our servers fees here.
+- [Support](https://github.com/sponsors/chesspecker): If you can and want to support us you can help paying our servers fees here.
 
 ### Repo 🎸
 
